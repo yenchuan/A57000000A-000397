@@ -1,0 +1,15 @@
+{
+  "name":"A57000000A-000397",
+  "title":"職業標準分類(XML)",
+  "description":"職業標準分類第六次修訂之分類系統分為大、中、小、細類等4個層級，其編碼方式大、中、小、細類分別採用1、2、3、4位數編碼；中、小、細類之末碼若為「0」，表示該層級不再細分，末碼若為「9」，則表示其他項類別。",
+  "license":"政府資料開放平臺資料使用規範",
+  "homepage":null,
+  "sources":{
+    "name":"行政院主計總處"
+  },
+  "author":{
+    "name":"羅 小姐",
+    "email":"opendatagov@gmail.comopendatagov@gmail.com"
+  },
+  "keywords":"代碼、標準分類、職業標準分類"
+}
